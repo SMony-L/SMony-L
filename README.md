@@ -7,7 +7,7 @@
 
 - 💡 I'm interested in **online payment, crypto-currency, blockchain and NFT**
 
-- ⚡ Hobbies **⚽️ 🏋🏼 🏃🏼‍♂️ 🎮**
+- ⚡ Hobbies **⚽️ 🏋🏼 🏃🏼‍♂️ 🚴🏻 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
