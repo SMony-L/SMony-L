@@ -5,7 +5,7 @@
 
 - 🧐 I’m currently learning **K8s and Gatsby**
 
-- 💡 I'm interested in **online payment, crypto-currency, blockchain and NFT**
+- 💡 I'm interested in **Online Payment, Crypto-Currency, Blockchain and NFT**
 
 - ⚡ Hobbies **⚽️ 🏋🏼 🏃🏼‍♂️ 🚴🏻 🎮**
 
