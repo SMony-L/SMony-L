@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at [Very Good Security](https://verygoodsecurity.com/)
 
-- 🧐 I’m currently learning **K8s and Gatsby**
+- 🧐 I’m currently learning **K8s, AWS and Gatsby**
 
 - 💡 I'm interested in **Online Payment, Crypto-Currency, Blockchain and NFT**
 
