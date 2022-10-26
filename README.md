@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mony 💸</h1>
-<h3 align="center">I'm a passionate programmer and coffee lover. I enjoy learning new emerging technologies and applications in the real world.</h3>
+<h3 align="center">I'm a passionate programmer and coffee lover ☕️. I enjoy learning new emerging technologies and applications in the real world.</h3>
 
 - 💻 I’m currently working at [Very Good Security](https://verygoodsecurity.com/)
 
