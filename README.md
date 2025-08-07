@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mony 💸</h1>
 <h3 align="center">I'm a passionate programmer and coffee lover ☕️. I enjoy learning new emerging technologies and applications in the real world.</h3>
 
-- 🧐 I’m currently learning **K8s, AWS and Gatsby**
+- 🧐 I’m currently learning **RAG, eBFP and Nextjs**
 
-- 💡 I'm interested in **Online Payment, Crypto-Currency, Blockchain and NFT**
+- 💡 I'm interested in **Online Payment, Crypto-Currency, Blockchain and AI**
 
 - ⚡ Hobbies **⚽️ 🏋🏼 🏃🏼‍♂️ 🚴🏻 🎮**
 
