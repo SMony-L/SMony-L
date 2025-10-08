@@ -218,6 +218,10 @@ const mony = {
   
   <br/><br/>
   
+  <sub>🤖 Crafted with the help of [GitHub Copilot](https://github.com/features/copilot) ✨</sub>
+  
+  <br/><br/>
+  
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
   
 </div>
